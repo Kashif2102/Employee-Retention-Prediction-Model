@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-"# Linear_regression" 
-"# Linear_regression" 
-"# Linear_regression" 
-"# Employee-Retention-Prediction-Model" 
-"# ML_resources" 
-"# ML_resources" 
-=======
 # Employee Retention Prediction Model
 
 This project uses a multivariable logistic regression model to predict whether an employee is likely to stay or leave based on various features such as satisfaction level, average monthly hours, promotion status in the last 5 years, and salary.
